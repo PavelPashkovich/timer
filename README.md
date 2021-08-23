@@ -6,6 +6,6 @@
 * java script
 * tailwindcss library
 
-### Try it [here]()!
+### Try it [here](https://pavelpashkovich.github.io/timer/)!
 
 ### Created by [Pavel Pashkovich](https://github.com/PavelPashkovich/)
